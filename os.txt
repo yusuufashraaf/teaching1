@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+this is the third file with the same name 
+i think stash will stop working 
+=======
+hello i am joe 
+trying to make same os files with same name and pop 
+them from stash to know what will happen
+>>>>>>> Stashed changes
